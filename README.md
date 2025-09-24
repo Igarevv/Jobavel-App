@@ -1,9 +1,5 @@
 ## Jobavel-application
 
-This application is my first study application wrote on [Laravel](https://laravel.com) framework.
-
-This is CRUD application
-
 ### ***Functionalities done for this moment:***
 
 - Separate registration for employers and employees
